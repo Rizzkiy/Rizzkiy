@@ -7,7 +7,3 @@
 - Linux, Docker, Nginx
 - Node.js, Next.js
 - Cloudflare, Proxmox
-
-## 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)
