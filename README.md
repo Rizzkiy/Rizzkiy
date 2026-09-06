@@ -186,29 +186,6 @@ Current interests:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rizzkiy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="Rizki's GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzkiy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Rizki's Top Languages">
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Enable the GitHub Action that generates this SVG before using this image. -->
-<img src="https://raw.githubusercontent.com/Rizzkiy/Rizzkiy/output/github-contribution-grid-snake.svg" width="85%" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
