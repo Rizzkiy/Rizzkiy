@@ -1,9 +1,10 @@
-# Hi, I'm Riku 👋
-🚀 Fullstack Developer in progress  
-☁️ Interested in Cloud & Server  
-🔐 Learning Cyber Security  
+# Hi, I'm Rizki Catur Maulana 👋
 
-## 🛠️ Tech Stack
-- Linux, Docker, Nginx
-- Node.js, Next.js
-- Cloudflare, Proxmox
+💻 Fullstack Developer
+☁️ Cloud & DevOps Enthusiast
+🔐 Cybersecurity & CTF Enthusiast
+🖥️ Homelab Builder
+
+I enjoy building web applications, managing Linux servers,
+experimenting with cloud infrastructure, and exploring
+cybersecurity through CTFs and self-hosted projects.
