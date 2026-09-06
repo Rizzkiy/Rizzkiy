@@ -1,4 +1,4 @@
-# Hey, I'm Rizki Catur 👋
+# Hey, I'm Rizki Catur Maulana 👋
 
 💻 Fullstack Developer  
 ☁️ Cloud & DevOps Enthusiast  
